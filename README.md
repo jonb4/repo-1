@@ -1,4 +1,10 @@
 # repo-1
+```mermeid
+    sequenceDiagram
+        Alice->>John: Hello John, how are you?
+        John-->>Alice: Great!
+        Alice-)John: See you later!
+```
 
 yes
 # heding
@@ -21,7 +27,7 @@ yes
     1. 3
     1. 3
 1. [refrenc](#ref1)
-    1. [mynd](#sfsfs)
+    1. [mynd](#.)
 
 
 yuggvg | ffxf | fff 
@@ -47,7 +53,7 @@ if int.= y
 
 
 
-
+###### .
 ![image of mu and my dad](somthing.png)
 
 image of ../
