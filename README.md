@@ -20,19 +20,30 @@ yes
     1. 3
     1. 3
     1. 3
-    1. 3
-    1. 3
-    1. 3
-    1. 3
+1. [refrenc](#ref1)
+    1. [refrenc](sfsfs)
+
 
 yuggvg | ffxf | fff 
 ---| ---| ---|
 dff | fsf| sffs 
 
 her is the ling to my [school ](https://tskoli.is/)
+```arduino
+void setup(){
+if int.= y 
+ print helo world
+}
+```
+<!--**texti *discored* \*er**
+-->
+# sfsfs
 
+*hiygggkgc*
 
+~~dggdgdg~~
 
+# ref1
 
 
 
