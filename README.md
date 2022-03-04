@@ -21,7 +21,7 @@ yes
     1. 3
     1. 3
 1. [refrenc](#ref1)
-    1. [refrenc](sfsfs)
+    1. [mynd](#sfsfs)
 
 
 yuggvg | ffxf | fff 
